@@ -11,3 +11,5 @@ junit.xml
 log.log
 public
 /.swiftpm
+*.doccarchive
+*.log
